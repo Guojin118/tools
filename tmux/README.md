@@ -1,9 +1,9 @@
 # Refered material
 1. __for style:__ 
-> https://github.com/gpakosz/.tmux
+* https://github.com/gpakosz/.tmux
 2. __for work env setup:__
-> http://louiszhai.github.io/2017/09/30/tmux
-> https://github.com/Louiszhai/tmux/blob/master/init.sh
+* http://louiszhai.github.io/2017/09/30/tmux
+* https://github.com/Louiszhai/tmux/blob/master/init.sh
 
 # Tips
 1. font size : ctrl + + / ctrl + -
